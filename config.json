@@ -1,0 +1,9 @@
+{
+    "clientid":"",
+    "clientsecret":"",
+    "accesstoken":"",
+    "streamer":["",""],
+    "delay":43200000,
+    "channel":"",
+    "token":""
+}
